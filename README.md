@@ -27,7 +27,7 @@ A curated collection of papers on Label-Free Reinforcement Learning with Verifia
 
 ### RLVR without External Supervision
 
-[Right question is already half the answer: Fully unsupervised LLM reasoning incentivization](https://arxiv.org/abs/2504.05812), ArXiv, 2025-04-08
+1️⃣ [Right question is already half the answer: Fully unsupervised LLM reasoning incentivization](https://arxiv.org/abs/2504.05812), ArXiv, 2025-04-08
 
 [Ttrl: Test-time reinforcement learning](https://arxiv.org/abs/2504.16084), ArXiv, 2025-04-22
 
